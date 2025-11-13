@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/onetoneframework/framework/blob/main/res/logo/logo_white.svg?raw=true" height="150" alt="Logo">
+</p>
+
 # Onetone Framework
 
 Onetone Framework는 고급 백엔드 라우팅, 컨트롤러 자동 주입, ActiveRecord ORM, CLI 도구, 네이티브 FFI 통합, AI 모델 런타임 지원, 완전한 프론트엔드 툴셋, 자체 인터프리터 언어를 결합한 통합형 풀스택 프레임워크입니다. 서버, 네이티브, 연구 워크플로를 위한 단일 일관된 툴킷을 제공하면서도 확장 가능하고 모듈화된 구조를 유지하는 것을 목표로 합니다.
