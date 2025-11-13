@@ -9,10 +9,10 @@ C언어로 작성된 Onetone Framework의 인터프리터는 내장된 다양한
 ### Builtin Features
 
 <p align="center">
-    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo1.png?raw=true" height="150" alt="Logo">
-    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo2.png?raw=true" height="150" alt="Logo">
-    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo3.png?raw=true" height="150" alt="Logo">
-</a></p>
+    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo1.png?raw=true" height="450" alt="Logo">
+    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo2.png?raw=true" height="450" alt="Logo">
+    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/opengl3d_demo3.png?raw=true" height="450" alt="Logo">
+</p>
 
 1.OpenGL 렌더링 (GLAD)
 - PBR (Physically Based Rendering)
@@ -22,6 +22,10 @@ C언어로 작성된 Onetone Framework의 인터프리터는 내장된 다양한
 - Skybox
 - Camera
 - Geometry (Capsule, Circle, Cylinder, Dodecahedron, Icosahedron, Octahedron, Tetrahedron...)
+
+<p align="center">
+    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/gui-demo1.png?raw=true" height="450" alt="Logo">
+</p>
 
 2.GUI (Windows)
 - createWindow
