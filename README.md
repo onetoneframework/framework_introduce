@@ -71,6 +71,12 @@ C언어로 작성된 Onetone Framework의 인터프리터는 내장된 다양한
 
 8.CLI
 
+<p align="center">
+    <img src="https://github.com/onetoneframework/framework_introduce/blob/main/framework_training.png?raw=true" height="450" alt="Logo">
+</p>
+
+9.Transformer
+
 # Frida
 
 1.RVA Memory Hooking
